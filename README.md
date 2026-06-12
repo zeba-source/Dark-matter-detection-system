@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🌌 Dark Matter Classification System
 
 An intelligent dark matter event classification and anomaly detection system powered by Claude AI.
